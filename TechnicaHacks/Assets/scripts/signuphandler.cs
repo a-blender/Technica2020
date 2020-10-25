@@ -31,9 +31,9 @@ using System.Collections.Generic;
     */
     public class signuphandler : MonoBehaviour
     {
-        public TMP_Text firstNameText, lastNameText, emailText, passText, verifyText, debugText;
+        public TMP_Text firstNameText, lastNameText, emailText, passText, debugText;
         // public UnityEngine.UI.Button signUpButton;
-        string firstname, lastname, email, password, verify;
+        string firstname, lastname, email, password;
         Firebase.Auth.FirebaseAuth auth;
 
       //  DatabaseReference reference;
@@ -57,7 +57,7 @@ using System.Collections.Generic;
             lastname = lastNameText.text;
             email = emailText.text;
             password = passText.text;
-            verify = verifyText.text;
+          //  verify = verifyText.text;
             
             // Sign up stuff here
             auth.CreateUserWithEmailAndPasswordAsync(email, password).ContinueWith(task => {
