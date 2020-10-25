@@ -20,6 +20,6 @@ public class buttonhandler : MonoBehaviour
 
     public void MovetoVrScene()
     {
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("0-Main");
     }
 }
