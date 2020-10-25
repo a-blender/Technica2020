@@ -34,15 +34,6 @@
       },
       "url": "https://unityregistry-pa.googleapis.com"
     },
-    "com.google.firebase.database": {
-      "version": "6.16.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.google.firebase.auth": "6.16.1"
-      },
-      "url": "https://unityregistry-pa.googleapis.com"
-    },
     "com.ptc.vuforia.engine": {
       "version": "9.5.4",
       "depth": 0,

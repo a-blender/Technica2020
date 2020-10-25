@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using Firebase;
-using Firebase.Database;
 using Firebase.Unity.Editor;
 using Firebase.Auth;
 using UnityEngine.SceneManagement;
