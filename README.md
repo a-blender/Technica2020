@@ -24,5 +24,9 @@ The Sustainable She app enables women to scan clothing brands on storefronts, si
 We have concrete steps for the future of Sustainable She:
 * Implement OCR to convert clothing brand logos to text
 * Connect mobile app to Google Firebase to dynamically pull ratings
-* Implement web scraping to pull ratings from a reputable site (ex: goodonyou)
+* Implement web scraping to pull ratings from a reputable site (ex: [good on you](https://goodonyou.eco/))
 * Add an AR feature that displays better women-owned clothing brand suggestions
+
+## Check out the website
+[Sustainable She](https://rewrittingfate.wixsite.com/sustainablyshe)
+
