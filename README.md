@@ -17,18 +17,14 @@ The Sustainable She app enables women to scan clothing brands on storefronts, si
 We built our mobile app using Unity with Vuforia Engine for image recognition of the clothing brand logos and 3D model rendering, and C# for the navigation pages. We also used Google Cloud for sign in authentication and Google Firebase as our database to store key value pairs of brand names and ratings.
 
 * Unity3D - platform for VR environment
-* Vuforia - Unity's 3D modeling engine
-* C# - driver for backend development
-* Firebase - NoSQL database to hold textual representations of logos and company names
-* Google cloud
+* Vuforia - 3D model rendering and image recognition of clothing brand logos
+* C# - navigation pages
+* Google cloud - sign in authentication
+* Firebase - database to store key value pairs of brand names and ratings
 
-What's next for Sustainable She
-
-## What's next for Sustainable She
+## What's next for Sustainable She?
 We have concrete steps for the future of Sustainable She:
 * Implement OCR to convert clothing brand logos to text
 * Connect mobile app to Google Firebase to dynamically pull ratings
 * Implement web scraping to pull ratings from a reputable site (ex: goodonyou)
 * Add an AR feature that displays better women-owned clothing brand suggestions
-
-
