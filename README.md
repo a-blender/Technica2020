@@ -14,9 +14,7 @@ Learn more about the [Sustainable She Idea!](https://www.youtube.com/watch?v=dm6
 The Sustainable She app enables women to scan clothing brands on storefronts, signs, and tags using AR technology and receive ratings and information about how sustainable that brand is. The app then gives you alternative women owned sustainable fashion brands that you can shop from instead.
 
 ## Technologies Used
-We built our mobile app using Unity with Vuforia Engine for image recognition of the clothing brand logos and 3D model rendering, and C# for the navigation pages. We also used Google Cloud for sign in authentication and Google Firebase as our database to store key value pairs of brand names and ratings.
-
-* Unity3D - platform for VR environment
+* Unity3D - platform for VR/AR environment
 * Vuforia - 3D model rendering and image recognition of clothing brand logos
 * C# - navigation pages
 * Google cloud - sign in authentication
