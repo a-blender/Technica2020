@@ -6,9 +6,18 @@
       "scopes": [
         "com.ptc.vuforia"
       ]
+    },
+    {
+      "name": "Game Package Registry by Google",
+      "url": "https://unityregistry-pa.googleapis.com",
+      "scopes": [
+        "com.google"
+      ]
     }
   ],
   "dependencies": {
+    "com.google.firebase.analytics": "6.16.1",
+    "com.google.firebase.auth": "6.16.1",
     "com.ptc.vuforia.engine": "9.5.4",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.device-simulator": "2.2.3-preview",
